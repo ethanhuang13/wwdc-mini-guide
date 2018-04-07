@@ -62,3 +62,4 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 - [Podcast Festival - ATP Live at AltConf](http://altconf.com/#tickets): 6/4 5:30pm. $5.00
 - [Podcast Festival - Relay FM Live at AltConf](http://altconf.com/#tickets): 6/6 5:30pm. $5.00
 - The Talk Show Live: 未定
+- [LIVE near WWDC 2018](https://livenearwwdc.squarespace.com/) by James Dempsey and the Breakpoints: 6/6 Night
