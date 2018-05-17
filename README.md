@@ -19,7 +19,7 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 - [ ] 泡麵（看個人）
 - [ ] **Star** and print this Mini Guide 😉
 
-順帶一提，我在整理台灣 iOS 開發者的 Twitter list[iOS Developers TW 🇹🇼](https://twitter.com/ethanhuang13/lists/ios-developers-tw)，可以跟我聯絡、把你加進去
+順帶一提，我在整理台灣 iOS 開發者的 Twitter list（[iOS Developers TW 🇹🇼](https://twitter.com/ethanhuang13/lists/ios-developers-tw)），可以跟我聯絡、把你加進去
 
 ## WWDC 2018 日程
 
