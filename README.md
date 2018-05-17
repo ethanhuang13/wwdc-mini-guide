@@ -2,7 +2,7 @@
 
 Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](https://www.catchplay.com) in Taipei, Taiwan
 
-我去過兩次，WWDC16、17。WWDC18 也會去。以下是我跟據這幾年自己及一些去過的台灣開發者整理出的經驗。如果你也會去的話，歡迎[跟我打個招呼](https://twitter.com/ethanhuang13)～
+我去過 WWDC16、17。今年 WWDC18 也會去。以下是我跟據這幾年自己及一些去過的台灣開發者整理出的經驗。如果你也會去的話，歡迎[跟我打個招呼](https://twitter.com/ethanhuang13)～
 
 ## 行前確認
 
