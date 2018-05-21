@@ -82,10 +82,10 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 - [LAYERS](https://layers.is): 6/4 - 6/6 整天. $850 
 
 ### 其他
-- [WWDC Run](https://wwdc.run): 6/4 and 6/5 7:20am
+- [WWDC Run](https://wwdc.run): 6/4 and 6/7 7:20am
 - [Podcast Festival - ATP Live at AltConf](http://altconf.com/#tickets): 6/4 5:30pm. $5.00
 - [Firebase Party](https://fabric.io/blog/2018/5/17/firebase-party-wwdc18/): 6/4 8:00pm-12:00am. Free
 - [The Loop Bash](http://www.loopinsight.com/2018/03/22/the-loop-bash-at-wwdc-2018/): 6/4 8:00pm-12:00am. Free
 - [Podcast Festival - Relay FM Live at AltConf](http://altconf.com/#tickets): 6/6 5:30pm. $5.00
-- The Talk Show Live: 未定
+- [The Talk Show Live: Live from WWDC 2018]: 6/5 6:00pm-9:00pm in California Theatre in San Jose
 - [LIVE near WWDC 2018](https://livenearwwdc.squarespace.com/) by James Dempsey and the Breakpoints: 6/6 Night
