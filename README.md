@@ -63,7 +63,7 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 ### 非官方
 
 - [Parties for WWDC](https://itunes.apple.com/app/parties-for-wwdc/id879924066?mt=8) 顧名思義
-- [WWDC.family](https://wwdc.family) 報告自己行蹤用，也可以用來找人、聚會。沒上架，需要申請 TestFlight
+- [WWDC.family](https://wwdc.family) 報告自己行蹤用，也可以用來找人、聚會。今年上架 App Store 並改名為 [ConfFriends](https://itunes.apple.com/app/id1386399019?ct=ethanhuang13)
 
 ### 常用工具
 
