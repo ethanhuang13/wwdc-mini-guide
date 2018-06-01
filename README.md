@@ -62,6 +62,7 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 
 ### 非官方
 
+- [Challenges](https://itunes.apple.com/tw/app/challenges-compete-get-fit/id1051342211?mt=8) 今年蘋果官方在 WWDC 期間舉辦了 [Close Your Rings Challenge](https://developer.apple.com/wwdc/close-your-rings/) 的運動挑戰活動。有 Apple Watch 的參加者可以下載這個第三方 app 來參與，裡面還有台灣開發者的群組
 - [Parties for WWDC](https://itunes.apple.com/app/parties-for-wwdc/id879924066?mt=8) 顧名思義
 - [WWDC.family](https://wwdc.family) 報告自己行蹤用，也可以用來找人、聚會。今年上架 App Store 並改名為 [ConfFriends](https://itunes.apple.com/app/id1386399019?ct=ethanhuang13)
 
