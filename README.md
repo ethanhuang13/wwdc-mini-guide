@@ -1,14 +1,14 @@
-# WWDC 迷你指南 - 2018 版
+# WWDC 迷你指南 - 2019 版
 
 Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](https://www.catchplay.com) in Taipei, Taiwan
 
-我去過 WWDC16、17。今年 WWDC18 也會去。以下是我跟據這幾年自己及一些去過的台灣開發者整理出的經驗。如果你也會去的話，歡迎[跟我打個招呼](https://twitter.com/ethanhuang13)～
+我去過 WWDC16~18。今年 WWDC19 也會去。以下是我跟據這幾年自己及一些去過的台灣開發者整理出的經驗。如果你也會去的話，歡迎[跟我打個招呼](https://twitter.com/ethanhuang13)～
 
 ## 行前確認
 
 - [ ] 護照。Apple 發的 badge 名字跟護照上要一樣
 - [ ] 手機漫遊設定
-- [ ] 電腦💻、自己手機📱以外另備測試機，要裝 iOS 12 beta。如果是開發 watchOS 跟 tvOS 依此類推
+- [ ] 電腦💻、自己手機📱以外另備測試機，要裝 iOS 13 beta。如果是開發 watchOS 跟 tvOS 依此類推
 - [ ] 如果要跟國外工程師交流的話，必備 Twitter 帳號。要有認得出人臉的頭像、簡單英文自介
 - [ ] 要與 Apple 工程師討論問題、bug & sample code。有發過 radar 更好
 - [ ] 開通 Uber 跟 Lyft 帳號
@@ -21,15 +21,15 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 
 順帶一提，我在整理台灣 iOS 開發者的 Twitter list（[iOS Developers TW 🇹🇼](https://twitter.com/ethanhuang13/lists/ios-developers-tw)），可以跟我聯絡、把你加進去
 
-## WWDC 2018 日程
+## WWDC 2019 日程
 
-- 6/2六 最好這天或之前到。要調時差或去參觀、玩樂最好再早個幾天
-- 6/3日 去會場憑護照與門票領 badge、紀念外套。通常 15 分鐘內可以搞定
-- 6/4一 都是全場的演講。Keynote 其實是給媒體報導跟感受氣氛的，如果要坐前面一點就 7 點前排隊吧。前一天給的外套是怕你一早排隊會冷。真正重要的技術概覽是下午的 Platforms State of Union。後面是 Design Awards 看個人。這天下午還有兩件重要的事情是預約接下來四天的 lab 跟 sessions，透過 WWDC app，以及逛 Company Store 買紀念品
-- 6/5二 看你規劃跑什麼 lab 跟 session
-- 6/6三 看你規劃跑什麼 lab 跟 session
-- 6/7四 看你規劃跑什麼 lab 跟 session。晚上會有官方的 party(Bash)
-- 6/8五 看你規劃跑什麼 lab 跟 session。也有的人這天就不參加直接返程
+- 6/1六 最好這天或之前到。要調時差或去參觀、玩樂最好再早個幾天
+- 6/2日 去會場憑護照與門票領 badge、紀念外套。通常 15 分鐘內可以搞定
+- 6/3一 都是全場的演講。Keynote 其實是給媒體報導跟感受氣氛的，如果要坐前面一點就 7 點前排隊吧。前一天給的外套是怕你一早排隊會冷。真正重要的技術概覽是下午的 Platforms State of Union。後面是 Design Awards 看個人。這天下午還有兩件重要的事情是預約接下來四天的 lab 跟 sessions，透過 WWDC app，以及逛 Company Store 買紀念品
+- 6/4二 看你規劃跑什麼 lab 跟 session
+- 6/5三 看你規劃跑什麼 lab 跟 session
+- 6/6四 看你規劃跑什麼 lab 跟 session。晚上會有官方的 party(Bash)
+- 6/7五 看你規劃跑什麼 lab 跟 session。也有的人這天就不參加直接返程
 
 ## 雜項
 
@@ -46,7 +46,6 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 - WWDC 會場有附午餐，但是你一定吃不了兩天。午餐可以出去吃
 - 如果有朋友在矽谷工作，聯絡一下吧。感受一下在矽谷生活（的無聊？）
 - 矽谷天氣很好，但乾燥。雨傘可能用不到，水壺還是帶著好
-- **2018** 想去體驗 NBA 總冠軍賽，*如果*西區冠軍是勇士，拿 badge 的禮拜天當天應該會有一場在奧克蘭 Oracle 球場，可以考慮。門票大概可以買台頂規 iPad Pro 吧。也可以去舊金山 AT&T 球場看棒球
 - 去之前把行程資訊整理成一本 PDF，並印出一份紙本隨身帶著
 - 出國出差經驗少的，可以看一下 Xdite 寫的[系列指南](http://xdite-goodie.logdown.com/posts/700963-nerd-travel-guide-1)，還不錯
 - 從台北 TPE 直飛 ✈️ 舊金山 SFO 的話，大概會是台北時間幾點飛，當地時間幾點到。例如週五下午 5 點飛、當地時間週五下午 5 點多到
@@ -72,7 +71,7 @@ Written by [@ethanhuang13](https://twitter.com/ethanhuang13/) from [CATCHPLAY](h
 - [Uber](https://itunes.apple.com/app/uber-優步-全球便捷搭乘/id368677368?mt=8)
 - [Airbnb](https://itunes.apple.com/app/airbnb/id401626263?mt=8)
 
-## WWDC 2018 週邊活動
+## WWDC 2018 週邊活動（待更新 2019 資訊）
 
 ### 免費 conference
 - [AltConf](http://altconf.com/): 6/4 - 6/7 整天
